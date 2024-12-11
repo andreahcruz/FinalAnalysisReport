@@ -14,3 +14,5 @@ To get the processed files that we used for our dashboard you must run the Noteb
 If you come across an error in one of the cells RE-RUN that same cell, the error will disappear.
 
 Also note the file location when you are running the code. We put our Data into one Data folder so your path way may be different.
+
+As for the dashboard (I'm unsure how it works but I did a free trial on some of the templates so it does show up on my end but possibly not for you.
