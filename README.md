@@ -15,4 +15,4 @@ If you come across an error in one of the cells RE-RUN that same cell, the error
 
 Also note the file location when you are running the code. We put our Data into one Data folder so your path way may be different.
 
-As for the dashboard (I'm unsure how it works but I did a free trial on some of the templates so it does show up on my end but possibly not for you.
+As for the dashboard (We're unsure how it works but we did a free trial on some of the templates so it does show up on our end but possibly not for you.
